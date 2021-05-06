@@ -9,7 +9,7 @@ public class FirstTestNGfile {
 	 public String baseUrl = "http://demo.guru99.com/test/newtours/";
 	    String driverPath = "C:\\Users\\Pushkar\\Videos\\Setup files\\chromedriver.exe";
 	    public WebDriver driver ; 
-	    //commented lines
+	   
 	     
 	  @Test
 	  public void verifyHomepageTitle() {
